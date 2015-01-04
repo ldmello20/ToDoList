@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TodaysToDoList</string>
+    <string name="personal">Personal</string>
+    <string name="work">Work</string>
+    <string name="recurring">Recurring Events</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
