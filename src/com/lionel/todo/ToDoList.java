@@ -125,7 +125,7 @@ public class ToDoList extends Activity {
 			public boolean setViewValue(View view, Cursor cursor, int columnIndex) {
 				// TODO Auto-generated method stub
 				if(columnIndex==cursor.getColumnIndex(TableInfo.DAY)){
-					System.out.println("inside view binder");
+					System.out.println("inside view binder hello");
 					int day = cursor.getColumnIndex(TableInfo.DAY);
 					int month= cursor.getColumnIndex(TableInfo.MONTH);
 					int year = cursor.getColumnIndex(TableInfo.YEAR);
